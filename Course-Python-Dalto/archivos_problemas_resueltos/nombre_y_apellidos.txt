@@ -1,0 +1,14 @@
+Los datos son: 
+
+Nombres: Santy 
+Apellidos: Velasquez
+---------
+Nombres: Jorge 
+Apellidos: Sanchez
+---------
+Nombres: Juan 
+Apellidos: Gonzales
+---------
+Nombres: Juanma 
+Apellidos: Garcia
+---------
